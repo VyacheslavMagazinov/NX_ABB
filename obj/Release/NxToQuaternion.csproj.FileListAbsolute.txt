@@ -1,0 +1,13 @@
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NxToQuaternion.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NxToQuaternion.pdb
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\EPPlus.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NXOpen.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NXOpen.Guide.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NXOpen.UF.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NXOpen.Utilities.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\bin\Release\NXOpenUI.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.csproj.AssemblyReference.cache
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.csproj.CoreCompileInputs.cache
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuat.3B7AA1FF.Up2Date
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.pdb
