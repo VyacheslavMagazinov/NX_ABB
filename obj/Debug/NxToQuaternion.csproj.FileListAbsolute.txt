@@ -24,3 +24,16 @@ C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Debug\NxToQuaternion.csproj.Co
 C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Debug\NxToQuat.3B7AA1FF.Up2Date
 C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Debug\NxToQuaternion.dll
 C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Debug\NxToQuaternion.pdb
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NxToQuaternion.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NxToQuaternion.pdb
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\EPPlus.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NXOpen.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NXOpen.Guide.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NXOpen.UF.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NXOpen.Utilities.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\bin\Debug\NXOpenUI.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\obj\Debug\NxToQuaternion.csproj.AssemblyReference.cache
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\obj\Debug\NxToQuaternion.csproj.CoreCompileInputs.cache
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\obj\Debug\NxToQuat.3B7AA1FF.Up2Date
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\obj\Debug\NxToQuaternion.dll
+C:\Users\SlavaTLT\source\repos\NxToQuaternion\NX_ABB\obj\Debug\NxToQuaternion.pdb
