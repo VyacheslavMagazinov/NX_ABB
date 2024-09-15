@@ -11,3 +11,16 @@ C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.csproj.
 C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuat.3B7AA1FF.Up2Date
 C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.dll
 C:\Users\SlavaTLT\source\repos\NxToQuaternion\obj\Release\NxToQuaternion.pdb
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NxToQuaternion.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NxToQuaternion.pdb
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\EPPlus.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NXOpen.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NXOpen.Guide.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NXOpen.UF.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NXOpen.Utilities.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\bin\Release\NXOpenUI.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\obj\Release\NxToQuaternion.csproj.AssemblyReference.cache
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\obj\Release\NxToQuaternion.csproj.CoreCompileInputs.cache
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\obj\Release\NxToQuaternion.csproj.CopyComplete
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\obj\Release\NxToQuaternion.dll
+C:\Users\SlavaTLTX\Documents\GitHub\NX_ABB\obj\Release\NxToQuaternion.pdb

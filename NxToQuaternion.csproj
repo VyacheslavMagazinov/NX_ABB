@@ -67,6 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbbRapidFun.cs" />
     <Compile Include="ExcelExport.cs" />
     <Compile Include="MathMod.cs" />
     <Compile Include="NXtoABB.cs" />

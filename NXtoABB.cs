@@ -30,77 +30,6 @@ namespace NxToQuaternion
         public static String FullPath;
         public static List<String> TabExport = new List<String>();
 
-        public class robtarget
-        {
-            public string name;
-            public translation XYZ;
-            public rotation WXYZ;
-            public robconf RC;
-            public extax EA;
-            public string VSpeed;
-            public string VZone;
-
-        }
-
-        public class MoveJ
-        {
-            public translation XYZ;
-            public rotation WXYZ;
-            public robconf RC;
-            public extax EA;
-            public string VSpeed;
-            public string VZone;
-
-        }
-
-        public class MoveL
-        {
-            public translation XYZ;
-            public rotation WXYZ;
-            public robconf RC;
-            public extax EA;
-            public string VSpeed;
-            public string VZone;
-
-        }
-
-        public class translation
-        {
-            public String X;
-            public String Y;
-            public String Z;
-
-        }
-
-        public class rotation
-        {
-            public String W;
-            public String X;
-            public String Y;
-            public String Z;
-
-        }
-
-        public class extax
-        {
-            public String e1 = "9E+09"; 
-            public String e2 = "9E+09";
-            public String e3 = "9E+09";
-            public String e4 = "9E+09";
-            public String e5 = "9E+09";
-            public String e6 = "9E+09";
-
-        }
-
-        public class robconf
-        {
-            public String cf1;
-            public String cf4;
-            public String cf6;
-            public String cfx;
-
-        }
-
         public class PartNX
         { 
             public String PartName = "";
@@ -225,7 +154,7 @@ namespace NxToQuaternion
 
                             Qt = MathMod.MatrixToQuaternion(m3d);
                             t3 = "W=" + Qt.W.ToString("f4") + " X=" + Qt.X.ToString("f4") + " Y=" + Qt.Y.ToString("f4") + " Z=" + Qt.Z.ToString("f4");
-                            //t3 = Qt.ToString();
+                            t3 = Qt.ToString();
 
                             lw.WriteLine(t1 + " _ " + t2);
                             TabExport.Add(t1 + ";" + t2 + ";" + t3);
