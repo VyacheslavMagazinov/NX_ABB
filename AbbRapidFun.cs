@@ -48,6 +48,7 @@ namespace NxToQuaternion
         public class MoveFun
         {
             public string Type;
+            public string Name;
             public PosData PosDataMF;
             public string VSpeed;
             public string VZone;
@@ -116,12 +117,18 @@ namespace NxToQuaternion
 
         static void CreateMODULE(string ModuleName, List<MoveFun> SpotListIN, ref List<string> ProgListIN)
         {
-            ProgListIN.Add("MODULE " + ModuleName);
+            ProgListIN.Add("MODULE " + ModuleName); 
             ProgListIN.Add(" ");
             ProgListIN.Add(headROBTARGET);
-            ProgListIN.Add(" ");
 
-            //----------
+            for (int i = 0; i < SpotListIN.Count; i++)
+            {
+
+                if (SpotListIN[i].Type == "HLIN") ProgListIN.Add("LOCAL PERS robtarget " + SpotListIN[i].Name + " :=" + SpotListIN[i].PosDataMF.ToString());
+
+            }
+
+            ProgListIN.Add(" ");
 
             ProgListIN.Add(headTOOL_DATA);
             ProgListIN.Add(headWOBJ_DATA);
