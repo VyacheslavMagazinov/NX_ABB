@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OfficeOpenXml.FormulaParsing.Excel.Functions.Logical;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -131,7 +132,14 @@ namespace NxToQuaternion
             ProgListIN.Add(" ");
 
             ProgListIN.Add(headTOOL_DATA);
-            ProgListIN.Add(headWOBJ_DATA);
+
+            ProgListIN.Add(" ");
+
+            ProgListIN.Add(headWOBJ_DATA); 
+
+            ProgListIN.Add("PERS wobjdata wTestXYZ:= [FALSE, FALSE, \"M9DM1\", [[0, 0, 0], [1, 0, 0, 0]], [[-391, 2335, 1561], [-0.5, 0.5, -0.5, 0.5]]];");
+
+            ProgListIN.Add(" ");
 
             CreatePROC("Name", SpotListIN, ref ProgListIN);
 
